@@ -9,3 +9,4 @@
 - [2026-05-10T21:46:20Z] style: apply consistent code formatting
 - [2026-05-10T22:45:21Z] chore: remove deprecated API calls
 - [2026-05-10T08:06:10Z] test: add unit tests for core module
+- [2026-05-10T16:51:10Z] docs: update README with usage examples
