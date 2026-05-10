@@ -7,3 +7,4 @@
 - [2026-03-07T22:38:03Z] refactor: clean up unused imports
 - [2026-03-07T18:53:24Z] docs: improve inline documentation
 - [2026-05-10T21:46:20Z] style: apply consistent code formatting
+- [2026-05-10T22:45:21Z] chore: remove deprecated API calls
